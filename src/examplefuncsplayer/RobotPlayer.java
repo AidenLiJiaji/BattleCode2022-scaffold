@@ -2,7 +2,7 @@ package examplefuncsplayer;
 
 import battlecode.common.*;
 import java.util.Random;
-
+// 傻逼
 /**
  * RobotPlayer is the class that describes your main robot strategy.
  * The run() method inside this class is like your main function: this is what we'll call once your robot
